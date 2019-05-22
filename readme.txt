@@ -10,7 +10,7 @@ and RStudio here: https://www.rstudio.com/products/rstudio/download/
 3) Demo and 4) Instructions for use
 We have included all code to complete analyses detailed in manuscript, separated into folders by figure/table (see details for each folder below). Source data is available in a separate folder labeled ‘source data files.’ 
 
-*Figures 1, S1, S2, S3 and Tables 1, 2 were generated without code using a combination of Prism graphpad, microsoft office excel, and microsoft office powerpoint
+*Figures 1, S1, S2, S3 and Tables 1, 2 were generated without custom code using a combination of Prism graphpad, microsoft office excel, and microsoft office powerpoint
 
 Figure 2:
 -2A made using Prism graphpad. 
