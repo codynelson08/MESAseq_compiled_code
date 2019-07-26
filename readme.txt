@@ -1,4 +1,4 @@
-Updated 22 May 2019
+Updated 26 July 2019
 
 1) System requirements
 All code tested and executed using R (version 3.5.1) in RStudio (version 1.1.456) in MacOS Mojave (version 10.14.2). No non-standard hardware required. 
@@ -6,9 +6,10 @@ All code tested and executed using R (version 3.5.1) in RStudio (version 1.1.456
 2) Installation guide
 Install R here: https://cran.rstudio.com/
 and RStudio here: https://www.rstudio.com/products/rstudio/download/
+The install time of RStudio is very quick - less than 5 minutes on a normal computer. 
 
 3) Demo and 4) Instructions for use
-We have included all code to complete analyses detailed in manuscript, separated into folders by figure/table (see details for each folder below). Source data is available in a separate folder labeled ‘source data files.’ 
+We have included all code to complete analyses detailed in manuscript, separated into folders by figure/table (see details for each folder below). Source data is available in a separate folder labeled ‘source data files.’ The run time for each analysis is variable - some are very quick, though others take multiple hours (particularly L1/L2 norm calculations). 
 
 *Figures 1, S1, S2, S3 and Tables 1, 2 were generated without custom code using a combination of Prism graphpad, microsoft office excel, and microsoft office powerpoint
 
